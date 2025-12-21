@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **[mashak.1998@gmail.com](mailto:mashak.1998@gmail.com)**
 
-- ⚡ Fun fact **I learn best by building things that slightly scare me.**
+- ⚡ Fun fact: **I learn best by building things that slightly scare me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
