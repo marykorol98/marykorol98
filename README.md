@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mariia Koroleva
+# Hi 👋, I'm Maria Koroleva
 
 ### Full-Stack ML Engineer | Backend • ML • MLOps
 
