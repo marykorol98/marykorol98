@@ -1,19 +1,16 @@
 # Hi 👋, I'm Maria Koroleva
 
-### Full-Stack ML Engineer | Backend • ML • MLOps
+### Middle ML Engineer (LLM / Backend)
 
- 🔭 Currently working on the **SMILE project** — ML-driven no-code research platform
+🔭 Currently working on the **SMILE project** — an ML-driven no-code research platform  
+focused on LLM integration, data pipelines, and backend services.
 
-- 🌱 I'm currently studying **best practices in LLM evaluation and benchmarking**
-
-- 👯 Open to collaboration on **commercial, open-source, and social-impact projects**
-
-- 🤝 Interested in joining teams where **ML/LLMs can bring real product value**
-
-- 💬 Ask me about **ML, Data Science, LLM, Development**
-
+- 🧠 Building and integrating **LLM-based features** (RAG, agents, tool-calling) into production systems  
+- ⚙️ Designing **backend & ML pipelines** with attention to scalability, reproducibility, and metrics  
+- 📊 Exploring **LLM evaluation & benchmarking**: quality metrics, offline evaluation, failure analysis  
+- 🤝 Open to collaboration on **product-oriented, open-source, and social-impact projects**  
+- 💬 Ask me about **LLMs, ML systems, backend development, and applied MLOps**  
 - 📫 How to reach me: **[mashak.1998@gmail.com](mailto:mashak.1998@gmail.com)**
-
 - ⚡ Fun fact: **I learn best by building things that slightly scare me.**
 
 <h3 align="left">Connect with me:</h3>
