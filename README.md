@@ -1,6 +1,6 @@
 # Hi 👋, I'm Maria Koroleva
 
-### Middle ML Engineer (LLM / Backend)
+### ML Engineer (LLM & Backend Systems)
 
 🔭 Currently working on the **SMILE project** — an ML-driven no-code research platform  
 focused on LLM integration, data pipelines, and backend services.
