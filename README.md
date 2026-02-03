@@ -3,7 +3,7 @@
 ### ML Engineer (LLM & Backend Systems)
 
 🔭 Currently working on the **SMILE project** — an ML-driven no-code research platform  
-focused on LLM integration, data pipelines, and backend services.
+focused on data pipelines.
 
 - 🧠 Building and integrating **LLM-based features** (RAG, agents, tool-calling) into production systems  
 - ⚙️ Designing **backend & ML pipelines** with attention to scalability, reproducibility, and metrics  
